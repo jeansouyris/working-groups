@@ -3,7 +3,7 @@
 ## Issue #TEMPLATE: Title of the issue
 
 - CAT: category in {__OPERATOR__ , __GRAPH__ , __FORMAT__}
-- CRIT: criticality in { __LOW__  , __HIGH__ }
+- CRI: criticality in { __LOW__  , __HIGH__ }
 - REQ:	_Identification of the SONNX requirement that can't be satisfied due to this issue_
 - LOC: 	__Identification of the exact location in the standard, possibly using an hyperlink__
 
